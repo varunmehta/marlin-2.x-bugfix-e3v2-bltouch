@@ -1,5 +1,7 @@
 # Marlin 3D Printer Firmware
 
+Installed on date of commit with SKR E3 v2.0 Committing for future reference. Good bye 8-bit! 
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
